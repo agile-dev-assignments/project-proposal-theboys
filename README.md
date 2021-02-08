@@ -1,5 +1,4 @@
 # Project Proposal: Bottoms Up
-Write a proposal for a software product you would like to pursue for the majority of the semester.   Make it obvious, interesting, and make the need for it sound convincing.
 
 ## Current Team
 Charles Condon, Maneesh Karnati, Diego Mendoza, Dhruv Shetty
